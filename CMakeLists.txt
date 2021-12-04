@@ -3,4 +3,4 @@ project(PA_3)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(PA_3 main.cpp)
+add_executable(PA_3 prefix的副本.cpp)
